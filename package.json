@@ -103,7 +103,8 @@
     "uuid": "^8.3.0",
 	  "franco": "1.1.1",
   	"jquery": "3.7.1",
-	  "test": "1.1.1"
+	  "test": "1.1.1",
+	  "invented-package": "2.1.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
